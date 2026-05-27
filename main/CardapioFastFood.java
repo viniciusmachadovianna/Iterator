@@ -1,6 +1,5 @@
-package java.br.com.hamburgueria.iterator;
 
-import java.br.com.hamburgueria.model.ItemCardapio;
+
 import java.util.ArrayList;
 import java.util.List;
 
