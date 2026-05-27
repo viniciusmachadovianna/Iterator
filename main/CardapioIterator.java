@@ -1,6 +1,3 @@
-
-
-
 import java.util.List;
 
 public class CardapioIterator implements MenuIterator {
