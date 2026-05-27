@@ -1,7 +1,7 @@
-package br.com.hamburgueria;
-import br.com.hamburgueria.iterator.CardapioFastFood;
-import br.com.hamburgueria.iterator.MenuIterator;
-import br.com.hamburgueria.model.ItemCardapio;
+package java.br.com.hamburgueria;
+import java.br.com.hamburgueria.iterator.CardapioFastFood;
+import java.br.com.hamburgueria.iterator.MenuIterator;
+import java.br.com.hamburgueria.model.ItemCardapio;
 
 public class Main {
     public static void main(String[] args) {
