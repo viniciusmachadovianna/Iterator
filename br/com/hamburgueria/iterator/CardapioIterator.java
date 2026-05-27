@@ -1,6 +1,9 @@
+package br.com.hamburgueria.iterator;
 
 
 import java.util.List;
+
+import br.com.hamburgueria.model.ItemCardapio;
 
 public class CardapioIterator implements MenuIterator {
     private List<ItemCardapio> itens;

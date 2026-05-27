@@ -1,3 +1,4 @@
+package br.com.hamburgueria.model;
 
 public class ItemCardapio {
     private String nome;

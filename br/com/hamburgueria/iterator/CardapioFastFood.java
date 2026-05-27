@@ -1,6 +1,9 @@
+package br.com.hamburgueria.iterator;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import br.com.hamburgueria.model.ItemCardapio;
 
 public class CardapioFastFood implements MenuAgregator {
     private List<ItemCardapio> itens;
